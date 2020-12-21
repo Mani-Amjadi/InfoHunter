@@ -1,0 +1,21 @@
+hello , you need to install the libraries before running tool ! 
+
+you can install libraries with this command (pip3 install -r libraries.txt) 
+
+or you can install libraries by running (install.py)
+
+------------------------------------------------------
+
+you can run the InfoHunter with these command
+
+in linux (python3 InfoHunter)
+
+you can use this tool with linux terminal or visual studio code .
+
+------------------------------------------------------
+
+i hope you enjoy this tool 
+
+goodbye :))
+
+------------------------------------------------------
