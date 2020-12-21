@@ -43,4 +43,4 @@ pip3 install -r requirements.txt
 python3 InfoHunter.py 
 ```
 ## contact us 
-- https://zilink/maniamjadi
+- https://zil.ink/ManiAmjadi
