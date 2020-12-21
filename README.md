@@ -39,7 +39,7 @@ it has some feature such as admin page finder , bypass cloudflare , whois , cms 
 ```bash
 git clone https://github.com/Mani-Amjadi/InfoHunter.git
 cd InfoHunter
-pip3 install -r requirements.txt
+pip3 install -r libraries.txt
 python3 InfoHunter.py 
 ```
 ## contact us 
