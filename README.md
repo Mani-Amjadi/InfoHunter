@@ -42,5 +42,5 @@ cd InfoHunter
 pip3 install -r libraries.txt
 python3 InfoHunter.py 
 ```
-## contact us 
+## Contact Me
 - https://zil.ink/ManiAmjadi
