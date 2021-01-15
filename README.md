@@ -45,4 +45,4 @@ python3 InfoHunter.py
 ## ScreenShot
 ![Screenshot (7)](https://user-images.githubusercontent.com/68564699/102916415-61869780-4438-11eb-813f-24e00388dc4c.jpg)
 ## Contact Me
-- https://zil.ink/ManiAmjadi
+- instagram : mani_amjadi
