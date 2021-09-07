@@ -31,9 +31,9 @@ it has created by Mani-Amjadi
 
 ## Operating Systems Tested
 
-- Kali Linux 2020.3
-- Windows 10 (visual studio code)
-- Ubuntu 19.10
+- [x] Kali Linux 2020.3
+- [x] Windows 10 (visual studio code)
+- [x] Ubuntu 19.10
 
 ## Installation
 ```bash
@@ -45,4 +45,4 @@ python3 InfoHunter.py
 ## ScreenShot
 ![Screenshot (7)](https://user-images.githubusercontent.com/68564699/102916415-61869780-4438-11eb-813f-24e00388dc4c.jpg)
 ## Contact Me
-- instagram : mani_amjadi
+`my instagram` : [instagram](https://www.instagram.com/mani_amjadi)
